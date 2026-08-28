@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README-使用说明.md",
+                "file": "0-Inbox/20260828.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README-使用说明"
+              "title": "20260828"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README-使用说明.md",
+                "file": "1-Projects/CSAPP/CSAPP学习项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README-使用说明.md",
+                "file": "1-Projects/CSAPP/CSAPP学习项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README-使用说明.md",
+                "file": "0-Inbox/20260828.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,13 +169,23 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
+          },
+          {
+            "id": "bb1901b6cb6e3b47",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,19 +195,24 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "workbuddian:Workbuddian Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d370b7db4fe3a587",
   "lastOpenFiles": [
-    "Templates/永久笔记.md",
+    "2026-08-28.md",
+    "0-Inbox/20260828.md",
+    "Templates/临时笔记.md",
+    "Templates/文献笔记.md",
     "README-使用说明.md",
-    "欢迎.md",
     "1-Projects/CSAPP/CSAPP学习项目.md",
+    "未命名.canvas",
+    "Templates/永久笔记.md",
+    "欢迎.md",
     "未命名.base",
     "Templates/CSAPP章节笔记.md",
-    "Templates/文献笔记.md",
-    "Templates/临时笔记.md",
     "未命名.md",
     "Templates",
     "Maps",
