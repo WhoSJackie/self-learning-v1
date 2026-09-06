@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Inbox/20260828.md",
+                "file": "1-Projects/CSAPP/P4 - 浮点数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260828"
+              "title": "P4 - 浮点数"
             }
           }
         ]
@@ -196,24 +196,40 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "workbuddian:Workbuddian Chat": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "d370b7db4fe3a587",
   "lastOpenFiles": [
-    "2026-08-28.md",
     "0-Inbox/20260828.md",
-    "Templates/临时笔记.md",
-    "Templates/文献笔记.md",
-    "README-使用说明.md",
-    "1-Projects/CSAPP/CSAPP学习项目.md",
-    "未命名.canvas",
+    "1-Projects/CSAPP/P4 - 浮点数.md",
+    "1-Projects/CSAPP/P9 - 机器级编程：数据表示与数组.md",
+    "2026-08-28.md",
+    "2026-08-29.md",
+    "1-Projects/影视鉴赏/永久笔记.md",
     "Templates/永久笔记.md",
-    "欢迎.md",
-    "未命名.base",
+    "1-Projects/影视鉴赏/影视鉴赏.md",
     "Templates/CSAPP章节笔记.md",
-    "未命名.md",
+    "Templates/文献笔记.md",
+    "Templates/临时笔记.md",
+    "README-使用说明.md",
+    "1-Projects/影视鉴赏",
+    "二进制小数表示.md",
+    "IEEE 754 浮点数表示.md",
+    "1-Projects/CSAPP/CSAPP学习项目.md",
+    "C语言浮点类型转换.md",
+    "数组和指针不是一回事.md",
+    "数组下标本质是地址计算.md",
+    "浮点运算不满足结合律.md",
+    "二维数组是数组的数组.md",
+    "复杂C声明的阅读方法.md",
+    "浮点数的舍入误差.md",
+    "复杂 C 声明的阅读方法.md",
+    "局部性.md",
+    "存储器层次结构.md",
+    "欢迎.md",
+    "未命名.canvas",
+    "未命名.base",
     "Templates",
     "Maps",
     "4-Archive",
